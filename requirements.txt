@@ -1,0 +1,7 @@
+streamlit
+requests
+yfinance
+pandas
+matplotlib
+textblob
+streamlit-autorefresh
